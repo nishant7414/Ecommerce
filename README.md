@@ -295,14 +295,6 @@ Contributions make the open-source community an amazing place to learn and creat
 This project is licensed under the [MIT License](LICENSE).  
 See `LICENSE` file for more information.
 
----
-
-## 📬 Contact
-
-**Developer:** Kanak Pherwani   
-🌐 GitHub: [@Kanak2908](https://github.com/Kanak2908)  
-
-**Project Link:** [https://github.com/Kanak2908/Ecommerce](https://github.com/Kanak2908/Ecommerce)
 
 ---
 
